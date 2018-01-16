@@ -1,0 +1,7 @@
+ocr_chain.egg-info
+sample-images/
+output-text/
+dist/
+build/
+*.__pycache__
+*.log
